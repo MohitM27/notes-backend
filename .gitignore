@@ -1,0 +1,16 @@
+
+### .gitignore
+
+The .gitignore file is used to specify files and directories that Git should ignore.
+
+```plaintext
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Editor and OS specific files
+.vscode/
+.DS_Store
+package-lock.json
